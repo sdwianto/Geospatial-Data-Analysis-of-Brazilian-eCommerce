@@ -1,1 +1,3 @@
 # Geospatial-Data-Analysis-of-Brazilian-eCommerce
+
+Analyzing business performance on an eCommerce platform entail evaluating customer growth, product quality, and payment methods. The project utilizes a public dataset from the Olist Store, comprising 100k orders (2016-2018) across multiple Brazilian marketplaces. Its extensive features enable comprehensive analysis of order dimensions, including status, price, payment, freight, customer location, product attributes, and customer reviews. Additionally, a released geolocation dataset links Brazilian zip codes to lat/lng coordinates, enhancing the depth of market assessment and exploration of new business opportunities.
